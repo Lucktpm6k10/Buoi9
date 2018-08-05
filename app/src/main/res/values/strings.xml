@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Buoi8</string>
+    <!-- Item Listview -->
+    <string name="idUser">IdUser</string>
+    <string name="tittle">Tittle</string>
+    <!--Main activity-->
+    <string name="dangLoad">Đang load dữ liệu</string>
+    <string name="loadXong">Load xong dữ liệu</string>
+</resources>
